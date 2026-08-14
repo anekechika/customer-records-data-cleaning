@@ -88,3 +88,13 @@ The Excel workbook contains four sheets:
 ## Key Learning
 
 This project reinforced the importance of validating data rather than relying only on visual inspection. Several issues, including unnecessary spaces and capitalization differences, were not immediately obvious and required formula-based checks to identify.
+
+## Project Preview
+
+### Data Quality Summary
+
+![Data Quality Summary](screenshots/data_quality_summary.png)
+
+### Cleaned Dataset
+
+![Cleaned Dataset](screenshots/cleaned_data.png)
